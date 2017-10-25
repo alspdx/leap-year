@@ -6,7 +6,6 @@ var leapYear = function(year) {
   };
 };
 
-
 $(function(){
  $("#leap-year").submit(function(event) {
    event.preventDefault();
